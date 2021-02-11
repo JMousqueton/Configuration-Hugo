@@ -1,6 +1,6 @@
 baseURL = "https://jmousqueton.github.io/"
 languageCode = "en"
-title = "Resume Julien Mousqueton"
+title = "Resume Julien Mousqueton - CTO"
 theme = "resume"
 
 [params.matomo]
@@ -38,7 +38,7 @@ theme = "resume"
     [params.contact]
         enable = true
         location = "Nogent sur Marne, France"
-        BirthDate = "1976-07-01"
+        BirthDate = "1976-07-09"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
@@ -121,6 +121,10 @@ theme = "resume"
         name = "HPE Ambassador"
         body = ""
         date = "2017-2021"
+	   [[params.awards.list]]
+	name = "IA Champion"
+	body = "Dell Technologies & Nvdia"
+	date = "2020"
 
     [params.languages]
         enable = true
@@ -263,7 +267,7 @@ theme = "resume"
               details = "2018 · ACE, Turbonomic"
 
 		    [[params.information.list]]
-           title = "Community"
+           title = "Communities"
                [[params.information.list.items]]
 		       details = "[Veeam User Group](http://community.veeam.com) France former co-leader."
 		       [[params.information.list.items]]
