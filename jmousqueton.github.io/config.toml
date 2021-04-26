@@ -46,8 +46,8 @@ theme = "resume"
         text = "+33 (0)6 33 55 64 28"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
-        url = "mailto:julien@mousqueton.me"
-        text = "julien@mousqueton.me"
+        url = "mailto:contact-recrutement@mousqueton.io"
+        text = "julien@mousqueton.io"
         [[params.contact.list]]
         icon = "fas fa-globe"
         url = "https://www.julienmousqueton.fr"
@@ -112,7 +112,7 @@ theme = "resume"
    	  	[[params.awards.list]]
         name = "Veeam Vanguard"
         body = "[Vanguard](https://www.veeam.com/vanguard.html)"
-        date = "2019-2020"
+        date = "2019-2021"
 	 	[[params.awards.list]]
         name = "Nutanix Champion"
         body = ""
@@ -123,7 +123,7 @@ theme = "resume"
         date = "2017-2021"
 	   [[params.awards.list]]
 	name = "IA Champion"
-	body = "Dell Technologies & Nvdia"
+	body = "Dell Technologies & Nvidia"
 	date = "2020"
 
     [params.languages]
@@ -154,10 +154,10 @@ theme = "resume"
         enable = true
 
         [[params.experience.list]]
-        title = "Chief Technologist Hybrid IT"
+        title = "Chief Technology Officer"
         dates = "2018 - Present"
         company = "[Computacenter](https://www.computacenter.com)"
-        details = "As Chief Technologist for Hybrid IT, I'm a member of the Datacenter & Cloud Leadership team and I'm driven to ensure Computacenter France continued growth and relevance in the market via offering compelling propositions and services to the market. I'm specifically responsible for the development and maintenance of our strategy ownership of our proposition stack within the Hybrid IT portfolio. I lead a team of Solution Leaders and collectively we are helping to drive our reputation in the market and assist our customers in very complex Digital Transformation programmes. I'm the recognised thought leader for Computacenter in the topic of Hybrid Cloud and as such a large amount of time is dedicated to working with our customer community and market analysts in evangelising Computacenter's capabilities, our approaches and perspectives on the topic. I'm heavily involved in a number of key customer campaigns, both in establishing strategy but also specifically in driving the scope and direction for transformational change to support and underpin the business imperatives."
+        details = "As Chief Technology Officer, I'm a member of the leadership team and I'm driven to ensure Computacenter France continued growth and relevance in the market via offering compelling propositions and services to the market. I'm specifically responsible for the development and maintenance of our strategy ownership of our proposition stack within the Hybrid IT portfolio. I lead a team of Solution Leaders and collectively we are helping to drive our reputation in the market and assist our customers in very complex Digital Transformation programmes. I'm the recognised thought leader for Computacenter in the topic of Hybrid Cloud and as such a large amount of time is dedicated to working with our customer community and market analysts in evangelising Computacenter's capabilities, our approaches and perspectives on the topic. I'm heavily involved in a number of key customer campaigns, both in establishing strategy but also specifically in driving the scope and direction for transformational change to support and underpin the business imperatives."
         [[params.experience.list.items]]
         details = "Definition of Technology offers."
         [[params.experience.list.items]]
@@ -217,11 +217,11 @@ theme = "resume"
         company = "[Groupe AGRICA](https://www.groupagrica.com)"
         details = "I design and modify systems architecture to meet business requirements. I'm also in charge of the transformation of IT from a legacy model into an 'As a Service' model."
 	     [[params.experience.list.items]]
-        details = "Define and build the technical infrastructure : LAN, SAN and virtualization."
+        details = "Define and build the technical infrastructure : Network, Storage, Security and Virtualization."
         [[params.experience.list.items]]
         details = "Implement ITIL process : change and configuration."
         [[params.experience.list.items]]
-        details = "Design and deploy a CDP architecture on two Datacenter."
+        details = "Design and deploy a dual Datecenter architecture with continius protection."
 
         [[params.experience.list]]
         title = "Datacenter Architect"
@@ -255,25 +255,29 @@ theme = "resume"
 
         [[params.information.list]]
            title = "Professional Certifications"
+[[params.information.list.items]]
+              details = "2021 · Presales IA, Nvidia"
            [[params.information.list.items]]
               details = "2020 · Sales, Presales, Veeam"
            [[params.information.list.items]]
               details = "2020 · Sales, Presales, AWS"
            [[params.information.list.items]]
-              details = "2019 · Sales, Presales, VMware"
+              details = "2020 · Sales, Presales, VMware"
            [[params.information.list.items]]
               details = "2018 · NPSX, Nutanix"
            [[params.information.list.items]]
               details = "2018 · ACE, Turbonomic"
 
-		    [[params.information.list]]
-           title = "Communities"
-               [[params.information.list.items]]
-		       details = "[Veeam User Group](http://community.veeam.com) France former co-leader."
-		       [[params.information.list.items]]
-		       details = "VMUG France former leader."
-		       [[params.information.list.items]]
-		       details = "Active [blogger](https://www.julienmousqueton.fr)."
+    [[params.information.list]]
+        title = "Communities"
+        [[params.information.list.items]]
+	details = "[Club Cybersécurité France](https://www.joinclubhouse.com/club/club-cybers%C3%A9curit%C3%A9-f) co-founder."
+	[[params.information.list.items]]
+	details = "[Veeam User Group](http://community.veeam.com) France former co-leader."
+	[[params.information.list.items]]
+	details = "VMUG France former leader."
+	[[params.information.list.items]]
+	details = "Active [blogger](https://www.julienmousqueton.fr)."
 
 
     [params.social]
@@ -294,9 +298,10 @@ theme = "resume"
 
         [params.speaker]
             enable = true
-
+	    [[params.speaker.list]]
+            details = "2021 · Co-host a weekly Room about [CyberSecurity](https://www.joinclubhouse.com/club/club-cybers%C3%A9curit%C3%A9-f) on [Clubhouse](https://www.joinclubhouse.com/)"
             [[params.speaker.list]]
-            details = "2020 · [Podcast](http://www.podcast-usp.fr/) Stockage"
+            details = "2020 · [Podcast](http://www.podcast-usp.fr/) Storage"
             [[params.speaker.list]]
             details = "2019 · IDC, Paris"
             [[params.speaker.list]]
