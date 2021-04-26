@@ -1,7 +1,7 @@
 baseURL = "https://jmousqueton.github.io/"
 languageCode = "en"
 title = "Resume Julien Mousqueton - CTO"
-theme = "resume"
+theme = "resumev2"
 
 [params.matomo]
         enable = true
