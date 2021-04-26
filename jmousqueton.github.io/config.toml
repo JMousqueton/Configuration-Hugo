@@ -248,6 +248,8 @@ theme = "resume"
         details = "Evolve the Backup strategy."
         [[params.experience.list.items]]
         details = "Maintain the security level of the company."
+	[[params.experience.list.items]]
+        details = "Security enablement for the IT Department."
 
 
     [params.information]
