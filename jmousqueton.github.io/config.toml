@@ -221,7 +221,7 @@ theme = "resume"
         [[params.experience.list.items]]
         details = "Implement ITIL process : change and configuration."
         [[params.experience.list.items]]
-        details = "Design and deploy a dual Datecenter architecture with continius protection."
+        details = "Design and deploy a dual Datecenter architecture with continuous protection."
 
         [[params.experience.list]]
         title = "Datacenter Architect"
