@@ -155,7 +155,7 @@ theme = "resume"
 
         [[params.experience.list]]
         title = "Chief Technology Officer"
-        dates = "2018 - Present"
+        dates = "2018 - 2021"
         company = "[Computacenter](https://www.computacenter.com)"
         details = "As Chief Technology Officer, I'm a member of the leadership team and I'm driven to ensure Computacenter France continued growth and relevance in the market via offering compelling propositions and services to the market. I'm specifically responsible for the development and maintenance of our strategy ownership of our proposition stack within the Hybrid IT portfolio. I lead a team of Solution Leaders and collectively we are helping to drive our reputation in the market and assist our customers in very complex Digital Transformation programmes. I'm the recognised thought leader for Computacenter in the topic of Hybrid Cloud and as such a large amount of time is dedicated to working with our customer community and market analysts in evangelising Computacenter's capabilities, our approaches and perspectives on the topic. I'm heavily involved in a number of key customer campaigns, both in establishing strategy but also specifically in driving the scope and direction for transformational change to support and underpin the business imperatives."
         [[params.experience.list.items]]
