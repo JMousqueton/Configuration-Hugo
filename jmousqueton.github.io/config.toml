@@ -303,6 +303,10 @@ theme = "resume"
 	    [[params.speaker.list]]
             details = "2021 · Co-host a weekly Room about [CyberSecurity](https://www.joinclubhouse.com/club/club-cybers%C3%A9curit%C3%A9-f) on [Clubhouse](https://www.joinclubhouse.com/)"
             [[params.speaker.list]]
+            details = "2021 · Co-host a weekly Podcast on CyberSecurity [Pwncast](https://www.pnwcast.com)"
+            [[params.speaker.list]]
+            details = "2021 · Teacher at [Ecole 2600](https://www.ecole2600.com/)"
+            [[params.speaker.list]]
             details = "2020 · [Podcast](http://www.podcast-usp.fr/) Storage"
             [[params.speaker.list]]
             details = "2019 · IDC, Paris"
