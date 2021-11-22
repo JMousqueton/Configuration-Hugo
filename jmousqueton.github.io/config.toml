@@ -59,7 +59,7 @@ theme = "resume"
         [[params.skills.list]]
         title = "Technical"
         [[params.skills.list.items]]
-        details = "Cloud Architecture"
+        details = "Cyber Security"
         [[params.skills.list.items]]
         details = "Infrastructure"
         [[params.skills.list.items]]
@@ -67,9 +67,9 @@ theme = "resume"
         [[params.skills.list.items]]
         details = "Network"
         [[params.skills.list.items]]
-        details = "Security"
+        details = "Cloud Architecture"
         [[params.skills.list.items]]
-        details = "DRP"
+        details = "Disaster Recovery Process"
 
         [[params.skills.list]]
         title = "Professional"
@@ -148,7 +148,7 @@ theme = "resume"
 
     [params.summary]
         enable = true
-        text = "As a Chief Technology Officer at Computacenter, I’m responsible for the strategy, sales enablement and technical proposition development for Hybrid IT. I'm running an integrated strategy and engagement with our customers and partners across our service portfolio."
+        text = "As a Chief Technology Officer at Computacenter, I'm responsible for the strategy, sales enablement and technical proposition development. I'm running an integrated strategy and engagement with our customers and partners across our service portfolio."
 
     [params.experience]
         enable = true
@@ -157,7 +157,7 @@ theme = "resume"
         title = "Chief Technology Officer"
         dates = "2018 - 2021"
         company = "[Computacenter](https://www.computacenter.com)"
-        details = "As Chief Technology Officer, I'm a member of the leadership team and I'm driven to ensure Computacenter France continued growth and relevance in the market via offering compelling propositions and services to the market. I'm specifically responsible for the development and maintenance of our strategy ownership of our proposition stack within the Hybrid IT portfolio. I lead a team of Solution Leaders and collectively we are helping to drive our reputation in the market and assist our customers in very complex Digital Transformation programmes. I'm the recognised thought leader for Computacenter in the topic of Hybrid Cloud and as such a large amount of time is dedicated to working with our customer community and market analysts in evangelising Computacenter's capabilities, our approaches and perspectives on the topic. I'm heavily involved in a number of key customer campaigns, both in establishing strategy but also specifically in driving the scope and direction for transformational change to support and underpin the business imperatives."
+        details = "As Chief Technology Officer, I'm a member of the leadership team and I'm driven to ensure Computacenter France continued growth and relevance in the market via offering compelling propositions and services to the market. I'm specifically responsible for the development and maintenance of our strategy ownership of our proposition stack within portfolios. I lead a team of Solution Leaders  and collectively we are helping to drive our reputation in the market and assist our customers in very complex Digital Transformation programmes. I'm the recognised thought leader for Computacenter in the topics of Hybrid Cloud and CyberSecurity. A large amount of time is dedicated to working with our customer community and market analysts in evangelising Computacenter's capabilities, our approaches and perspectives on these topics. I'm heavily involved in a number of key customer campaigns, both in establishing strategy but also specifically in driving the scope and direction for transformational change to support and underpin the business imperatives."
         [[params.experience.list.items]]
         details = "Definition of Technology offers."
         [[params.experience.list.items]]
@@ -243,7 +243,7 @@ theme = "resume"
         company = "Caisse Primaire d'Assurance Maladie"
         details = "I coordinate the strategy and operations for the protection of the enterprise information assets and manage that program."
         [[params.experience.list.items]]
-        details = "Deploy Internet access and URL Filtering."
+        details = "Deploy and secure Internet access."
         [[params.experience.list.items]]
         details = "Evolve the Backup strategy."
         [[params.experience.list.items]]
