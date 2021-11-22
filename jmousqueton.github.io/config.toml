@@ -61,15 +61,15 @@ theme = "resume"
         [[params.skills.list.items]]
         details = "Cloud Architecture"
         [[params.skills.list.items]]
-        details = "Virtualization"
+        details = "Infrastructure"
         [[params.skills.list.items]]
-        details = "Storage"
+        details = "Data Protection"
         [[params.skills.list.items]]
         details = "Network"
         [[params.skills.list.items]]
         details = "Security"
         [[params.skills.list.items]]
-        details = "Automation"
+        details = "DRP"
 
         [[params.skills.list]]
         title = "Professional"
